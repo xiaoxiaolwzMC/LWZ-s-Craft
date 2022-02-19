@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lc",
+  "name": "Lwz's Craft",
+  "description": "N/A",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["qwe145"],
+  "credits": "The Team CovertDragon, for teaching me how to mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
